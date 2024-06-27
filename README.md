@@ -31,10 +31,13 @@ export default {
 
 
 ## Credenciales de Prueba
- # Admin = admin@admin.com          -password = @abc1234
+ - Admin = admin@admin.com          -password = @abc1234
  
- # Cajero = cajero@cajero.com       -password = Cajero123
+ - Cajero = cajero@cajero.com       -password = Cajero123
  
- # Cocinero = cocinero@cocinero.com -password = Cocinero123
+ - Cocinero = cocinero@cocinero.com -password = Cocinero123
  
- # Delivery = delivery@delivery.com -password = Delivery123
+ - Delivery = delivery@delivery.com -password = Delivery123
+
+## PARA PROBAR EL SISTEMA:
+ - En la Pantalla de eleccion de localidades para ver la sucursal debe seleccionar a Mendoza como provincia y Guaymallen como localidad
