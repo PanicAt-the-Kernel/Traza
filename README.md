@@ -31,7 +31,10 @@ export default {
 
 
 ## Credenciales de Prueba
- -Admin = admin@admin.com          -password = @abc1234
- -Cajero = cajero@cajero.com       -password = Cajero123
- -Cocinero = cocinero@cocinero.com -password = Cocinero123
- -Delivery = delivery@delivery.com -password = Delivery123
+ # Admin = admin@admin.com          -password = @abc1234
+ 
+ # Cajero = cajero@cajero.com       -password = Cajero123
+ 
+ # Cocinero = cocinero@cocinero.com -password = Cocinero123
+ 
+ # Delivery = delivery@delivery.com -password = Delivery123
